@@ -1,0 +1,26 @@
+_repo: Woman--Man-s-Equal_11632
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Webster, Thomas
+    alias: Webster, Thos. (Thomas)
+    birthdate: 1809
+    deathdate: 1901
+    gutenberg_agent_id: '4053'
+    url: http://www.gutenberg.org/2009/agents/4053
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11632'
+  lccn: 09002737
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- History'
+- GITenberg
+title: 'Woman: Man''s Equal'
+url: http://www.gutenberg.org/ebooks/11632
